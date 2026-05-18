@@ -1,5 +1,7 @@
-## Hi there 👋
+# Brett's Paradigm
 
-I'm **Brett Vachon** and in my professional life, I'm desperately trying to bridge the gap between technical work and marketing. I'm more convinced every day that's where the pot of gold lies💰.
+## An attempt to answer the questioN: **why am I here**?? 
 
-In my off time, I like to pursue hobbies likeGETBACKTOWORK
+Running a business on the Internet and having a WebSite you're unable to fix or customize yourself is like having a bike courrier company and not being able to fix your bike yourself. 
+
+In other words, this explains my attempt to create a home for tools for my website that I couldn't find anywhere else. 
