@@ -1,7 +1,9 @@
-# Brett's Paradigm
+#why am I here?
 
-## An attempt to answer the question: **why am I here**?? 
+Imagine you're running a business on the Internet and you built a WebSite that you're unable to fix or customize yourself. 
 
-Running a business on the Internet and having a WebSite you're unable to fix or customize yourself is like having a bike courrier company and not being able to fix a bicycle yourself. 
+To me, this is akin to owning and operating a bike courier company and not being able to fix one of your broken bicycles yourself. 
 
-In other words, this explains my attempt to create a home for tools that I couldn't find anywhere else. 
+This space is akin to the garage for my websites. 
+
+In other words, you'll find here my attempts to create tools that I couldn't find anywhere else. 
